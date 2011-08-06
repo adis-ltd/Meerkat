@@ -1,2 +1,4 @@
 Small project to allow annotation monitoring of Java applications
 
+There will be a relative of this in the form of a web based application for consuming messages sent. These messages will be sent in many different forms, mostly rv, tcp based transport protocol
+
